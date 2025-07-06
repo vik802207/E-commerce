@@ -136,13 +136,13 @@ function Frontend() {
   <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-4">
     {[
       { logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Staples_2019.svg/2560px-Staples_2019.svg.png", name: "Staples" },
-      { logo: "/brands/sprouts.png", name: "Sprouts" },
-      { logo: "/brands/grocery.png", name: "Grocery outlet" },
-      { logo: "/brands/mollie.png", name: "Mollie stones" },
-      { logo: "/brands/sports.png", name: "Sports Basement" },
-      { logo: "/brands/container.png", name: "Container Store" },
-      { logo: "/brands/target.png", name: "Target" },
-      { logo: "/brands/bevmo.png", name: "Bevmo!" },
+      { logo: "https://cdn.worldvectorlogo.com/logos/sprout-social.svg", name: "Sprouts" },
+      { logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Grocery_Outlet_logo.svg/1280px-Grocery_Outlet_logo.svg.png", name: "Grocery outlet" },
+      { logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCESuNFLwTW1ZC_9OQ5jM9m8mWHRtmdRKWjA&s", name: "Mollie stones" },
+      { logo: "https://outdoorindustryjobs.com/EmployerImages/Sports_Basement_Logo.png", name: "Sports Basement" },
+      { logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaogrFL943UJ4dVMi3LYm68h0pX5Afrk1RNQ&s", name: "Container Store" },
+      { logo: "https://www.vhv.rs/dpng/d/407-4075173_target-logo-png-transparent-svg-vector-target-png.png", name: "Target" },
+      { logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhNQwZYhTgUG2rQfN7dlVHGSi8qGXyYVssw&s", name: "Bevmo!" },
     ].map((brand, idx) => (
       <div key={idx} className="bg-white p-4 rounded-lg shadow text-center">
         <img src={brand.logo} alt={brand.name} className="h-10 mx-auto mb-2" />
