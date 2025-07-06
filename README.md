@@ -77,7 +77,6 @@ E-Commerce/
 ![Alt text](https://github.com/vik802207/E-commerce/blob/main/img/Screenshot%20(640).png?raw=true)
 ![Alt text](https://github.com/vik802207/E-commerce/blob/main/img/Screenshot%20(641).png?raw=true)
 ![Alt text](https://github.com/vik802207/E-commerce/blob/main/img/Screenshot%20(642).png?raw=true)
-![Alt text](https://github.com/vik802207/E-commerce/blob/main/img/Screenshot%20(643).png?raw=true)
 ![Alt text](https://github.com/vik802207/E-commerce/blob/main/img/Screenshot%20(644).png?raw=true)
 
 ---
