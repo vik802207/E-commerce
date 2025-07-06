@@ -135,7 +135,7 @@ function Frontend() {
   <h2 className="text-xl font-bold mb-6">Choose By Brand</h2>
   <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-6 gap-4">
     {[
-      { logo: "/brands/staples.png", name: "Staples" },
+      { logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Staples_2019.svg/2560px-Staples_2019.svg.png", name: "Staples" },
       { logo: "/brands/sprouts.png", name: "Sprouts" },
       { logo: "/brands/grocery.png", name: "Grocery outlet" },
       { logo: "/brands/mollie.png", name: "Mollie stones" },
