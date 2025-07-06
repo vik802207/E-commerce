@@ -16,6 +16,27 @@ Shopcart is a beautifully designed modern e-commerce frontend built with **React
 
 ---
 
+## 🛠 Tech Stack
+
+- ⚛️ React
+- 🎨 Tailwind CSS
+- 🧠 React Context API (for cart state)
+- 📦 React Icons
+- 🛣 React Router DOM
+
+---
+
+## ▶️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/shopcart.git
+cd shopcart
+npm install
+npm start
+```
+---
 ## 📂 Project Structure
 ```bash
 E-Commerce/
@@ -84,26 +105,7 @@ E-Commerce/
 
 [![Live Demo](https://img.shields.io/badge/View-Live-green?style=for-the-badge&logo=github)](https://e-commerce-phi-rose.vercel.app/)
 
-## 🛠 Tech Stack
-
-- ⚛️ React
-- 🎨 Tailwind CSS
-- 🧠 React Context API (for cart state)
-- 📦 React Icons
-- 🛣 React Router DOM
-
 ---
-
-## ▶️ Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/shopcart.git
-cd shopcart
-npm install
-npm start
-```
 
 ## 📌 Future Improvements
 
